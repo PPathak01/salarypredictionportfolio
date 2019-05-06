@@ -1,7 +1,7 @@
 # salarypredictionportfolio
 Salary Prediction Project 
 
-	•  Abstract:
+	• Abstract:
 	• Dataset Details :
 	• Tech Stack/Libraries Used:
 	• Models Used :
